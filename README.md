@@ -1,2 +1,2 @@
 # RoboArduino
-Repositório usado no desenvolvimento de um Robô com arduino para uso em projeto de extensão do IFPE.
+Repositório usado para desenvolvimento de um Robô controlado por bluetooth com arduino para projeto de extensão do IFPE que visa desenvolver um jogo para auxiliar no ensino de programaçao para crianças.
