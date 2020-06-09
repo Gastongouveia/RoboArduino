@@ -82,7 +82,7 @@ void loop() {
     
     msgRec=Serial.readString();
     
-    for (char i = 0; i < msgRec.length(); i++) {
+    for (int i = 0; i < msgRec.length(); i++) {
       
       char instrucao = msgRec.charAt(i); // VARIÁVEL QUE ARMAZENA CADA CARACTERE DA MENSAGEM
     
